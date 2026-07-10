@@ -69,7 +69,7 @@ I enjoy solving real-world problems through clean architecture, maintainable cod
 
 **Associate Software Engineer**
 
-**2+ Years Experience**
+**2.6+ Years Experience**
 
 ### Highlights
 
