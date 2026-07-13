@@ -73,11 +73,8 @@ Associate Software Engineer
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MrVikk&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrVikk&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MrVikk&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrVikk&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -85,32 +82,19 @@ Associate Software Engineer
 ## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=https://github.com/MrVikk&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=MrVikk&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
+<h2 align="center">🌐 Connect With Me</h2>
+
 <p align="center">
-
-<a href="https://www.linkedin.com/in/0208-vivek-bhadouria">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://github.com/mrvikk">
-<img src="https://skillicons.dev/icons?i=github" width="50"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="mailto:vivekbhadouria0208@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
-</a>
+  <a href="https://www.linkedin.com/in/0208-vivek-bhadouria">
+    <img src="https://skillicons.dev/icons?i=linkedin,github,gmail" />
+  </a>
 </p>
 
 ---
