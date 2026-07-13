@@ -86,7 +86,7 @@ Associate Software Engineer
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=https://github.com/mrvikk&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -96,7 +96,7 @@ Associate Software Engineer
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/0208-vivek-bhadouria/">
+<a href="https://www.linkedin.com/in/0208-vivek-bhadouria">
 <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
 
