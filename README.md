@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Vivek Bhadouria
+Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Vivek Bhadouria
 </h1>
 
 <h3 align="center">
@@ -7,7 +7,7 @@ Associate Software Engineer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1500&color=22C55E&center=true&vCenter=true&width=900&lines=%F0%9F%99%8F+%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+(Namaste);%F0%9F%91%8B+Welcome+to+my+GitHub;%F0%9F%87%AE%F0%9F%87%B3+A+Full+Stack+Developer+from+India;%F0%9F%9A%80+Building+Scalable+Web+Applications;%F0%9F%92%A1+Turning+Ideas+into+Reality;%F0%9F%A4%9D+Connect+with+me+for+Collaboration" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1500&color=22C55E&center=true&vCenter=true&width=900&lines=%F0%9F%99%8F+%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+(Namaste);%F0%9F%91%8B+Welcome+to+my+GitHub;%F0%9F%87%AE+A+Full+Stack+Developer+from+India;%F0%9F%9A%80+Building+Scalable+Web+Applications;%F0%9F%92%A1+Turning+Ideas+into+Reality;%F0%9F%A4%9D+Connect+with+me+for+Collaboration" alt="Typing SVG" />
 </p>
 
 ---
@@ -74,9 +74,9 @@ Associate Software Engineer
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=https://github.com/MrVikk&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MrVikk&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/MrVikk&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrVikk&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
